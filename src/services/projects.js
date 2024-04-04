@@ -18,7 +18,7 @@ const projects = [
     title: "World-Wise",
     description: "Marked your travelling on map with some memorable notes.",
     url: "https://mj-worldwise.netlify.app/",
-    imgUrl: "public/Images/jpg project images/worldwise.png"
+    imgUrl: "https://i.postimg.cc/K18ZqWsb/worldwise.png"
   },
   {
     id: "p4",
@@ -26,7 +26,7 @@ const projects = [
     description: "Browse movie and create your own dynamic watchlist.",
     url: "https://mj-movie-next2.netlify.app/",
     // imgUrl:"https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/660c6738cab35823a3c0ff90/screenshot_2024-04-02-20-14-50-0000.webp&fit=cover&h=500&w=800"
-    imgUrl: "public/Images/jpg project images/movienext2.png"
+    imgUrl: "https://i.postimg.cc/yDp7wTwZ/movienext2.png"
   },
 
   {
@@ -34,7 +34,7 @@ const projects = [
     title: "Mapty",
     description: "Mark your workout location on map with it's details.",
     url: "https://mj-mapty.netlify.app/",
-    imgUrl: "public/Images/jpg project images/mapty.png"
+    imgUrl: "https://i.postimg.cc/WhjprzGh/mapty.png"
   },
     {
     id: "p6",
@@ -63,7 +63,7 @@ const projects = [
     title: "Movie Next",
     description: "Browse all Movies available on net and get details like cast, ratings, revenue etc.",
     url: "https://mj-movie-next.netlify.app/",
-    imgUrl: "public/Images/jpg project images/movienext.png"
+    imgUrl: "https://i.postimg.cc/MX1KvVjC/movienext.png"
     // imgUrl: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/6568c9e74a73250008a3eb37/screenshot_2023-11-30-17-44-28-0000.png&fit=cover&h=500&w=800"
   },
 
@@ -79,3 +79,19 @@ const projects = [
 ];
 
 export default projects;
+
+
+
+// https://i.postimg.cc/WhjprzGh/mapty.png
+// https://i.postimg.cc/FspQC4L4/Hero-Section-Img.png
+// https://i.postimg.cc/MX1KvVjC/movienext.png
+// https://i.postimg.cc/yDp7wTwZ/movienext2.png
+// https://i.postimg.cc/K18ZqWsb/worldwise.png
+
+// https://i.postimg.cc/bGdwJ5Qg/pizza-menu.avif
+// https://i.postimg.cc/YvdSt7mj/translator.avif
+// https://i.postimg.cc/bDtY02V2/travellist.avif
+// https://i.postimg.cc/WqcN5bxY/villaparty.avif
+// https://i.postimg.cc/tndXwGjq/bafnasweets.avif
+// https://i.postimg.cc/xk7TbP52/images.avif
+

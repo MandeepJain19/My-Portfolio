@@ -23,7 +23,7 @@ function HeroSection({ setIsIntersecting }) {
       // className="flex h-screen items-center justify-center gap-2"
       // className="grid h-screen grid-cols-2 "
       // className="relative  flex h-screen items-end justify-center bg-[url('public/HeroSectionImg.png')] bg-cover bg-fixed bg-top bg-no-repeat pb-20
-      className="relative  flex h-screen items-end justify-center bg-[url('https://github.com/MandeepJain19/My-Portfolio/blob/master/public/HeroSectionImg.png')] bg-cover bg-fixed bg-top bg-no-repeat pb-20
+      className="relative  flex h-screen items-end justify-center bg-[url('https://i.postimg.cc/FspQC4L4/Hero-Section-Img.png')] bg-cover bg-fixed bg-top bg-no-repeat pb-20
       before:absolute
       before:inset-0
       before:z-[1]
