@@ -58,7 +58,7 @@ function HeroSection({ setIsIntersecting }) {
                 WebkitBackgroundClip: "text",
               }}
             >
-              Web Developer
+              Developer
             </h2>
           </div>
           <p className="my-2 text-lg font-semibold text-teal-300 xl:text-2xl ">
